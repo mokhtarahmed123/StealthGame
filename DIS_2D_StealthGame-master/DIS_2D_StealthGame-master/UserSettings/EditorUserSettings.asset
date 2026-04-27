@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    QuickInstaller_com.unity.purchasing_installRecorded:
+      value: 2550581500
+      flags: 0
+    QuickInstaller_com.unity.services.levelplay_installRecorded:
+      value: 2550581500
+      flags: 0
+    RecentlyUsedSceneGuid-0:
+      value: 5607000504000d0e0f5d0f2043730644434e41792e7c72367e7a4837b0b6676b
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 56000c5601540c0e5c0a542741750a44424f1e2e797b736975714830e7e36d3a
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 55030456500758585d0b587314220a44104e487b7d2b2366797e4966b4b5363a
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 0557065401505f0b0e0b0d76157b5d4440154173792927657b284c6bb7b3306f
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 530305075d065e0e5f57087715700b44414f4d7c7d7d7462287c1b36e1b76c3b
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 5b500c50560250090f5a5c7111275c4444151e2b2e2a716678711c32b0e36761
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 575206035d050c085c5e557a49210c444f154b2b7c29706574784431e1e1366a
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 52550c0403545d5f0f0b5b261574094415161e7a797a25317a7f4967b2e16c3c
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 5207560250020b030f5a5f75142059444616402c787c7265752b4a62b2b66039
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 2
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_VCScanLocalPackagesOnConnect: 1
+  m_ArtifactGarbageCollection: 1
+  m_CompressAssetsOnImport: 1

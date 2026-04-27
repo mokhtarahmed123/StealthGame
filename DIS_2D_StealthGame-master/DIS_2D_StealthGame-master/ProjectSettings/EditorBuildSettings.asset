@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e4b946fc7300d47499c27762b28a35e4
+  - enabled: 1
+    path: Assets/Scenes/BasicTutorial.unity
+    guid: 16bd57b8b437dcf40a8f44458b71064a
+  - enabled: 1
+    path: Assets/Scenes/MainSceneLevelOne.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainSceneLevelTwo.unity
+    guid: ff22de60cea4e8b46b995aa56a1853d7
+  - enabled: 1
+    path: Assets/Scenes/MainSceneLevelThree.unity
+    guid: 6200521c0e41da54f9011ce6474565bb
+  - enabled: 1
+    path: Assets/Scenes/MainSceneLevelFour.unity
+    guid: 564ca5d5b3cb30945993b44f335d2633
+  - enabled: 1
+    path: Assets/Scenes/MainSceneLevelSix.unity
+    guid: 5180dae51d8e165448fd5359885cec9b
+  - enabled: 1
+    path: Assets/Scenes/MainSceneMattGun.unity
+    guid: 021a837529d5e34478561522e5fec78c
+  - enabled: 1
+    path: Assets/Scenes/MainSceneOwenGun.unity
+    guid: 8a863792b403adc42bfabb7658aa2c39
+  - enabled: 1
+    path: Assets/Scenes/MainSceneLevelFive.unity
+    guid: f9a2647fe9980f04eb1d857c1baef7fb
+  - enabled: 1
+    path: Assets/Scenes/MainSceneSeven.unity
+    guid: 4c2e80e310989b349b3a0a65919bcab2
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: aad60e2e0fd4a804d8eb42066270252c
+  m_configObjects: {}
